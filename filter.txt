@@ -1,0 +1,20 @@
+[Adblock Plus 2.0]
+! Title: g-hayashi custome filter
+! Homepage: https://github.com/g-hayashi/adb_filter
+! Issues: https://github.com/g-hayashi/adb_filter
+||collector.t-idr.com^
+||b.karte.io^
+||analytics.google.com^
+||www.facebook.com/tr^
+||am.yahoo.co.jp/rt^
+||cdn-edge.karte.io^
+||cdn.kaizenplatform.net^
+||www.clarity.ms^
+||www.google-analytics.com^
+||us.criteo.com^
+||obs.thisgreencolumn.com^
+||bat.bing.com^
+||gum.criteo.com^
+||script.hotjar.com^
+||www.googletagmanager.com^
+||cdn.taboola.com^
